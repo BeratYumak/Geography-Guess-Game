@@ -1,2 +1,1 @@
-# Geography-Guess-Game
-Geography guess game for students to test students knowledge. Game includes just Turkey's mountains, plain, provincess, leaks, plateaus, rivers.
+If you have any size problem about the screen go to the displays setting and change the scale ratio to %100.
